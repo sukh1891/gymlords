@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.ktech.gymlrds"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.ktech.gymlrds"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ktech.gymlrds"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ktech.gymlrds"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "com.ktech.gymlrds"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ktech.gymlrds"
+        }
+    },
+    "dependent_plugins": {}
+}
